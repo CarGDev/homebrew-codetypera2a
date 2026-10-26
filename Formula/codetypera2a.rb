@@ -1,8 +1,8 @@
 class Codetypera2a < Formula
   desc "A2A hub, dispatcher and launcher for opencode v2 agents"
   homepage "https://github.com/CarGDev/codetyper.a2a"
-  url "https://github.com/CarGDev/codetyper.a2a/archive/refs/tags/v2.1.13.tar.gz"
-  sha256 "461e6ac73fdf47049aba33a992c0f562c31b26c5a9a923f18be02a44473affd7"
+  url "https://github.com/CarGDev/codetyper.a2a/archive/refs/tags/v2.1.14.tar.gz"
+  sha256 "0d68cf7eba1f890bf73d0b5a75ba9ca525b2d896d1292c320df3911e6801ef6c"
   license "MIT"
   head "https://github.com/CarGDev/codetyper.a2a.git", branch: "master"
 
